@@ -1,7 +1,4 @@
 # customer_sentiment_analysis
-
-# Customer Sentiment Analysis
-
 ## Overview
 
 An end-to-end NLP and Machine Learning project that analyzes customer reviews and predicts sentiment using TF-IDF and Linear SVC.
